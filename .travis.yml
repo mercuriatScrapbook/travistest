@@ -5,5 +5,5 @@ python:
   - "nightly"
 install:
   - "pip install pytest"
-  - "pip install -r requirements.txt"
+  - "pip install -r video_code/requirements.txt"
 script: python -m pytest test/
