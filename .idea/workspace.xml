@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e83432e-5eeb-4479-acf8-884ecbfb12ce" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="0e83432e-5eeb-4479-acf8-884ecbfb12ce" name="Default Changelist" comment="Corrected requirements command">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
@@ -61,7 +60,28 @@
       <option name="project" value="LOCAL" />
       <updated>1565601046135</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Updated the travis.yml file">
+      <created>1565601632077</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1565601632077</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Corrected requirements command">
+      <created>1565601744152</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1565601744152</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Corrected requirements.txt path">
+      <created>1565602724607</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1565602724607</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,6 +121,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updated the gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated the gitignore" />
+    <MESSAGE value="Updated the travis.yml file" />
+    <MESSAGE value="Corrected requirements command" />
+    <MESSAGE value="Corrected requirements.txt path" />
+    <option name="LAST_COMMIT_MESSAGE" value="Corrected requirements.txt path" />
   </component>
 </project>
